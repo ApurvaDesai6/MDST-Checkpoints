@@ -40,3 +40,4 @@ Make sure your git repo has the following setup _and nothing else_:
 	- checkpoint2.ipynb
 
 # MDST-Checkpoints
+# MDST-Checkpoints
