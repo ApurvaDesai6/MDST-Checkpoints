@@ -42,3 +42,4 @@ Make sure your git repo has the following setup _and nothing else_:
 # MDST-Checkpoints
 # MDST-Checkpoints
 # MDST-Checkpoints
+# MDST-Checkpoints
